@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZooSeeker</string>
+    <string name="add_exhibit_title">Add Exhibit</string>
+    <string name="summary_title">Summary</string>
+    <string name="directions_title">Directions</string>
+    <string name="search_hint">Search for exhibits</string>
+    <string name="num_exhibits_planned">Number of Exhibits Planned: %1$d</string>
+    <string name="delete_description">Delete Button</string>
+    <string name="clear_all">Clear All</string>
+    <string name="empty_plan">Your plan is currently empty.</string>
+    <string name="toggle_label">Brief Directions</string>
+    <string name="back_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="skip_button">Skip</string>
+    <string name="mock_button">Mock</string>
+</resources>

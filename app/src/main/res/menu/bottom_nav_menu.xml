@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_exhibit"
+        android:title="@string/add_exhibit_title"
+        android:icon="@drawable/ic_search"/>
+    <item
+        android:id="@+id/plan"
+        android:title="@string/summary_title"
+        android:icon="@drawable/ic_list"/>
+    <item
+        android:id="@+id/directions"
+        android:title="@string/directions_title"
+        android:icon="@drawable/ic_directions"/>
+</menu>
